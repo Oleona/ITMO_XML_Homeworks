@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TimeTable SYSTEM "lessons_DTD.dtd">
+<TimeTable>
+  <Item>
+    <Name>Программирование на C#</Name>
+    <Teacher>доцент Осипов Н.А.</Teacher>
+    <ClassTime>18-30</ClassTime>
+    <Begin>19.10.2020</Begin>
+    <End>06.11.2020</End>
+  </Item>
+
+  <Item>
+    <Name>Введение в базы данных</Name>
+    <Teacher>ст. преп. Осетрова И.С</Teacher>
+    <ClassTime>18-30</ClassTime>
+    <Begin>09.11.2020</Begin>
+    <End>20.11.2020</End>
+  </Item>
+
+  <Item>
+    <Name>Основы технологий разметки</Name>
+    <Teacher>ст. преп. Смольянинов А.В.</Teacher>
+    <ClassTime>18-30</ClassTime>
+    <Begin>18.12.2020</Begin>
+    <End>28.12.2020</End>
+  </Item>
+  
+</TimeTable>

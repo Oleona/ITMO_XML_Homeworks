@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resume>
+  <candidate id = "a">
+    <Name>Иван</Name>
+    <LastName>Иванов</LastName>
+    <PatronymicName>Иванович</PatronymicName>
+    <Age>20</Age>
+    <WorkPlace>ООО "Один"</WorkPlace>
+    <Post>менеджер</Post>
+    <DateOfBirth>01.01.2000</DateOfBirth>
+    <Education>высшее</Education>
+    <Address>СПб, ул. Ленина 3-5</Address>
+    <Phone>123-45-67</Phone>
+    <FamilyStatus>женат</FamilyStatus>
+    <DesiredSalary currency="RUR">30000</DesiredSalary>
+    </candidate>
+
+  <candidate id = "b">
+    <Name>Петр</Name>
+    <LastName>Петров</LastName>
+    <PatronymicName>Петрович</PatronymicName>
+    <Age>30</Age>
+    <WorkPlace>ООО "Два"</WorkPlace>
+    <Post>экономист</Post>
+    <DateOfBirth>01.01.1990</DateOfBirth>
+    <Education>высшее</Education>
+    <Address>СПб, Серпуховская 13-9</Address>
+    <Phone>987-65-54</Phone>
+    <FamilyStatus>женат</FamilyStatus>
+    <DesiredSalary currency="RUR">50000</DesiredSalary>
+    
+  </candidate>
+
+
+  <candidate id = "c">
+    <Name>Валентина</Name>
+    <LastName>Валентинова</LastName>
+    <PatronymicName>Валентиновна</PatronymicName>
+    <Age>40</Age>
+    <WorkPlace>ООО "Три"</WorkPlace>
+    <Post>менеджер по продажам</Post>
+    <DateOfBirth>01.01.1980</DateOfBirth>
+    <Education>средне</Education>
+    <Address>СПб, Дбуновская 12-4</Address>
+    <Phone>122-33-44</Phone>
+    <FamilyStatus>не замужем</FamilyStatus>
+    <DesiredSalary currency="RUR">35000</DesiredSalary>
+  </candidate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</resume>

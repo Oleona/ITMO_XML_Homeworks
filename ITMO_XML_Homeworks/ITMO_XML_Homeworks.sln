@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EAFA93D0-1F4F-44AE-857C-22E3D895EF67}"
+	ProjectSection(SolutionItems) = preProject
+		lessons-ns.xml = lessons-ns.xml
+		lessons.xml = lessons.xml
+		lessons1.xml = lessons1.xml
+		lessons1_XML.xml = lessons1_XML.xml
+		lessons_DTD.dtd = lessons_DTD.dtd
+		library.dtd = library.dtd
+		library.xml = library.xml
+		resume.xml = resume.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574D00EC-BD9F-4E53-ACBE-31F11C6D4E6F}
+	EndGlobalSection
+EndGlobal

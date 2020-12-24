@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+  <book_catalog>
+    <book id="a" isbn="1" issue="translation" year="1990">
+      <authors>
+        <author>Иван Иванов</author>
+      </authors>
+      <title>&linux;</title>
+      <publishing>Издательство</publishing>
+      <annotation>Книга про &internet;</annotation>
+    </book>
+    
+  </book_catalog>
+  <author_catalog>
+    <author_book idref="a">Иванов</author_book>
+  </author_catalog>
+  
+</library>
